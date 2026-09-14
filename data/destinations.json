@@ -1,7 +1,7 @@
 {
   "source": "https://api.submitlist.io/catalog/destinations",
-  "synced_on": "2026-09-07",
-  "count": 336,
+  "synced_on": "2026-09-14",
+  "count": 339,
   "destinations": [
     {
       "slug": "acquire",
@@ -1103,6 +1103,26 @@
       }
     },
     {
+      "slug": "businesswith",
+      "name": "BusinessWith",
+      "type": "marketplace",
+      "website_url": "https://www.businesswith.com/",
+      "submission_url": "https://hub.businesswith.com/",
+      "logo_url": "https://www.google.com/s2/favicons?domain=businesswith.com&sz=64",
+      "description": "European B2B software marketplace that helps buyers compare software and connects SaaS suppliers with prospective customers.",
+      "audience": "B2B SaaS suppliers seeking discovery and qualified buyer leads across the European software market.",
+      "eligibility": "BusinessWith invites SaaS suppliers to list their software through its supplier hub. The team reviews the vendor inquiry before any commercial partnership or listing is arranged.",
+      "pricing": "unknown",
+      "pricing_note": "The supplier hub does not publish listing prices. It asks vendors to contact the team to discuss how the marketplace can help.",
+      "link_type": "unknown",
+      "domain_rating": 48,
+      "monthly_traffic": 1300,
+      "categories": [
+        "business",
+        "saas"
+      ]
+    },
+    {
       "slug": "capterra",
       "name": "Capterra",
       "type": "directory",
@@ -1805,6 +1825,46 @@
       "categories": [
         "business",
         "startup"
+      ]
+    },
+    {
+      "slug": "european-alternatives",
+      "name": "European Alternatives",
+      "type": "directory",
+      "website_url": "https://european-alternatives.eu",
+      "submission_url": "https://european-alternatives.eu/register",
+      "logo_url": "https://www.google.com/s2/favicons?domain=european-alternatives.eu&sz=64",
+      "description": "European Alternatives is a directory of European digital services and products, including cloud services and SaaS products.",
+      "audience": "European software companies and self-hostable open-source projects seeking discovery by people looking for European alternatives.",
+      "eligibility": "The company and any parent or holding company must be based in an EU, EEA, EFTA, or DCFTA member country, or in the UK. Self-hostable open-source projects are also eligible. Hosting providers must operate on infrastructure that meets the directory's European ownership criteria.",
+      "pricing": "unknown",
+      "pricing_note": "The site does not publish a fee for product suggestions. Its sponsorship and affiliate programmes are separate from the listing-suggestion route.",
+      "link_type": "unknown",
+      "domain_rating": 73,
+      "monthly_traffic": 43800,
+      "categories": [
+        "business",
+        "saas"
+      ]
+    },
+    {
+      "slug": "ezilon",
+      "name": "Ezilon",
+      "type": "directory",
+      "website_url": "https://www.ezilon.com/",
+      "submission_url": "https://www.ezilon.com/general_url_submission.htm",
+      "logo_url": "https://www.google.com/s2/favicons?domain=ezilon.com&sz=64",
+      "description": "Ezilon is a human-reviewed regional web directory with Europe-wide business, software, internet-service, education, and government categories.",
+      "audience": "European businesses and software providers seeking a reviewed regional directory listing in the category that matches their offering.",
+      "eligibility": "Ezilon accepts active quality websites with English content that fit a selected regional category. It rejects sites under construction, redirects, duplicate or similar submissions, and prohibited content.",
+      "pricing": "paid",
+      "pricing_note": "Non-commercial government, NGO, association, charity, research, and education sites are free. Commercial listings require payment, but Ezilon does not publish the amount on its submission information page and says a declined paid listing is refunded.",
+      "link_type": "unknown",
+      "domain_rating": 54,
+      "monthly_traffic": 32300,
+      "categories": [
+        "business",
+        "saas"
       ]
     },
     {

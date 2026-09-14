@@ -4,12 +4,12 @@
 
 <h1 align="center">awesome-submitlist</h1>
 
-<p align="center"><b>336 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
+<p align="center"><b>339 places to submit your startup.</b><br>Directories, launch sites, newsletters, communities, subreddits, marketplaces, and the press pages that mention products. With the numbers attached.</p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-336-6864e5?style=flat-square" alt="336 destinations"></a>
-  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--09--07-6864e5?style=flat-square" alt="synced 2026-09-07"></a>
+  <a href="https://submitlist.io/catalog"><img src="https://img.shields.io/badge/destinations-339-6864e5?style=flat-square" alt="339 destinations"></a>
+  <a href="#how-this-list-is-built"><img src="https://img.shields.io/badge/synced-2026--09--14-6864e5?style=flat-square" alt="synced 2026-09-14"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-1f8a4c?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-8b8b8b?style=flat-square" alt="CC0 1.0 license"></a>
 </p>
@@ -20,18 +20,18 @@
 
 You built the thing. Now where do you post it? Every list that answers this question is either five years stale, padded with dead domains, or a lead magnet for an agency. This one is none of those. It is generated from the live [Submitlist catalog](https://submitlist.io/catalog), where each site was opened by a person, checked for whether it still takes submissions, and tagged with the four numbers that decide if it is worth your afternoon: Ahrefs Domain Rating, monthly organic traffic, what it costs, and whether the backlink is dofollow.
 
-Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 336 destinations have a Domain Rating of 80 or higher, 203 are free, and 158 give you a dofollow link. The pigeon keeps count.
+Dead sites get archived and vanish from here on the next weekly sync. Right now 105 of the 339 destinations have a Domain Rating of 80 or higher, 203 are free, and 158 give you a dofollow link. The pigeon keeps count.
 
 ## Contents
 
 <img src="assets/pigeon-wave.svg" alt="" width="170" align="right">
 
-- [Directories](#directories) <sub>118</sub>
+- [Directories](#directories) <sub>120</sub>
 - [Product launch sites](#product-launch-sites) <sub>13</sub>
 - [Newsletters](#newsletters) <sub>37</sub>
 - [Communities](#communities) <sub>25</sub>
 - [Subreddits](#subreddits) <sub>44</sub>
-- [Marketplaces](#marketplaces) <sub>26</sub>
+- [Marketplaces](#marketplaces) <sub>27</sub>
 - [Citations](#citations) <sub>73</sub>
 
 - [How to read an entry](#how-to-read-an-entry)
@@ -52,7 +52,7 @@ Sections are sorted by DR, subreddits by members, newsletters by readers. A miss
 
 ## <a name="directories"></a><a href="https://submitlist.io/catalog?type=directory"><img src="assets/type-directory.svg" width="30" alt=""></a> Directories
 
-<sub>118 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=directory)</sub>
+<sub>120 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=directory)</sub>
 
 The classic move. Fill a form, wait for an editor, get a listing and usually a link. The top of this list is Trustpilot and the BBB territory, where a listing is a trust signal more than a traffic source. Further down are the maker directories that still send real visitors.
 
@@ -150,6 +150,8 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   SelectHub is a software selection and analyst research platform with product directories, comparisons, requirements tools, and vendor-buyer matching for business and enterprise software.
 - <a href="https://whatsthebigdata.com/submit-new-ai-tool/"><img src="https://www.google.com/s2/favicons?domain=whatsthebigdata.com&sz=64" width="16" height="16" alt=""></a> **[What's the Big Data](https://whatsthebigdata.com/submit-new-ai-tool/)** `DR 74` `95K visits/mo` `Free` `Nofollow`<br>
   What's the Big Data is an online destination for big-data, AI, and machine-learning news, guides, events, expert insights, and an AI-tools directory.
+- <a href="https://european-alternatives.eu/register"><img src="https://www.google.com/s2/favicons?domain=european-alternatives.eu&sz=64" width="16" height="16" alt=""></a> **[European Alternatives](https://european-alternatives.eu/register)** `DR 73` `44K visits/mo`<br>
+  European Alternatives is a directory of European digital services and products, including cloud services and SaaS products.
 - <a href="https://land-book.com/submission-guidelines"><img src="https://www.google.com/s2/favicons?domain=land-book.com&sz=64" width="16" height="16" alt=""></a> **[Landbook](https://land-book.com/submission-guidelines)** `DR 73` `14K visits/mo` `Free` `Dofollow`<br>
   Landbook is a curated, daily updated gallery of hand-picked website designs for inspiration among creatives, designers, and marketers.
 - <a href="https://www.softwareworld.co/"><img src="https://www.google.com/s2/favicons?domain=softwareworld.co&sz=64" width="16" height="16" alt=""></a> **[SoftwareWorld](https://www.softwareworld.co/)** `DR 73` `15K visits/mo` `Free` `Dofollow`<br>
@@ -212,6 +214,8 @@ The classic move. Fill a form, wait for an editor, get a listing and usually a l
   Aitoolnet is a large AI tools directory and search engine that catalogs tens of thousands of curated AI tools by use case and category.
 - <a href="https://aitoptools.com/claim-your-tool/"><img src="https://www.google.com/s2/favicons?domain=aitoptools.com&sz=64" width="16" height="16" alt=""></a> **[AITopTools](https://aitoptools.com/claim-your-tool/)** `DR 54` `27K visits/mo` `Paid` `Nofollow`<br>
   AITopTools is an AI-tools directory with curated tool listings, categories, new tools, and user reviews.
+- <a href="https://www.ezilon.com/general_url_submission.htm"><img src="https://www.google.com/s2/favicons?domain=ezilon.com&sz=64" width="16" height="16" alt=""></a> **[Ezilon](https://www.ezilon.com/general_url_submission.htm)** `DR 54` `32K visits/mo` `Paid`<br>
+  Ezilon is a human-reviewed regional web directory with Europe-wide business, software, internet-service, education, and government categories.
 - <a href="https://affiliate.watch/submit-affiliate-program"><img src="https://www.google.com/s2/favicons?domain=affiliate.watch&sz=64" width="16" height="16" alt=""></a> **[Affiliate Watch](https://affiliate.watch/submit-affiliate-program)** `DR 53` `19K visits/mo` `Free`<br>
   Affiliate-program discovery directory with categorized program profiles, commission details, reviews, ratings, networks, software, and submission options for program owners.
 - <a href="https://saasaitools.com/submit-listing-2/"><img src="https://www.google.com/s2/favicons?domain=saasaitools.com&sz=64" width="16" height="16" alt=""></a> **[Saas AI Tools](https://saasaitools.com/submit-listing-2/)** `DR 53` `3.5K visits/mo` `Free` `Dofollow`<br>
@@ -571,7 +575,7 @@ Reddit will bury a bad post and its author in about four minutes. Every entry sa
 
 ## <a name="marketplaces"></a><a href="https://submitlist.io/catalog?type=marketplace"><img src="assets/type-marketplace.svg" width="30" alt=""></a> Marketplaces
 
-<sub>26 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=marketplace)</sub>
+<sub>27 entries · [filter and sort these on submitlist.io](https://submitlist.io/catalog?type=marketplace)</sub>
 
 App, extension, and plugin stores. Listing here is distribution, not PR. Reviews take longer, developer accounts sometimes cost money, and once you are in, the store keeps sending users for years.
 
@@ -627,6 +631,8 @@ App, extension, and plugin stores. Listing here is distribution, not PR. Reviews
   Curated software-deal marketplace promoting lifetime, annual, credit-based, and free promotional offers to marketers, growth teams, founders, and software buyers.
 - <a href="https://betatesting.com/"><img src="https://www.google.com/s2/favicons?domain=betatesting.com&sz=64" width="16" height="16" alt=""></a> **[BetaTesting](https://betatesting.com/)** `DR 55` `6.2K visits/mo` `Paid` `Nofollow`<br>
   BetaTesting connects companies with a panel of beta testers for real-world product testing, feedback, and research.
+- <a href="https://hub.businesswith.com/"><img src="https://www.google.com/s2/favicons?domain=businesswith.com&sz=64" width="16" height="16" alt=""></a> **[BusinessWith](https://hub.businesswith.com/)** `DR 48` `1.3K visits/mo`<br>
+  European B2B software marketplace that helps buyers compare software and connects SaaS suppliers with prospective customers.
 
 <p align="right"><a href="#contents">back to contents ↑</a></p>
 
@@ -881,4 +887,4 @@ Do not send pull requests that edit `README.md` directly. It is generated, and t
 
 [CC0 1.0](LICENSE). The list is public domain. Domain Rating figures are provided by Ahrefs under their [Domain Rating license](http://ahrefs.com/legal/domain-rating-license).
 
-<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-09-07</sub></p>
+<p align="center"><sub>Maintained by <a href="https://github.com/alvinunreal">Alvin</a> · Built from <a href="https://submitlist.io/catalog">submitlist.io/catalog</a> · Last synced 2026-09-14</sub></p>
